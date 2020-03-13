@@ -13,4 +13,5 @@
 # デモ
 
 「 Heroku 」を本番環境にデプロイしたものになります。
+
 https://block-game-javascript.herokuapp.com/
